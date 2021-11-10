@@ -4,7 +4,7 @@
             "datetime": 1633975690,
             "filename": "lineage-17.1-20211011-UNOFFICIAL-icosa_sr-signed.zip",
             "id": "9fb24f9578deed858a67e116d0ff87fb",
-            "romtype": "unofficial",
+            "build_type": "custom",
             "size": 625995776,
             "url": "https://github.com/LeddaZ/lineage-switch/releases/download/20211011/lineage-17.1-20211011-UNOFFICIAL-icosa_sr-signed.zip",
             "version": "17.1"

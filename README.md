@@ -1,2 +1,2 @@
-# posp-custom-builds
-Repo to release my custom POSP builds
+# builds
+Repo to release posp-custom builds
