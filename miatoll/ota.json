@@ -1,13 +1,12 @@
 {
     "response": [
         {
-            "build_date": 1636661100,
+            "build_date": 1636747440,
+            "filename": "potato_miatoll-12-20211112-2004-frico.v5.0.0+alpha1.Custom.zip",
+            "md5": "d83e18ba55f0efdb43aadd31f4574886",
             "build_type": "custom",
-            "dish": "frico",
-            "filename": "potato_miatoll-12-20211111-2105-frico.v5.0.0+alpha1.Custom.zip",
-            "md5": "0f67de6836908e9165c0af234aab6bf5",
-            "size": 1630846976,
-            "url": "https://github.com/posp-custom/builds/releases/download/test/potato_miatoll-12-20211111-2105-frico.v5.0.0+alpha1.Custom.zip",
+            "size": 1630527488,
+            "url": "https://github.com/posp-custom/builds/releases/download/test/potato_miatoll-12-20211112-2004-frico.v5.0.0+alpha1.Custom.zip",
             "version": "5.0.0+alpha1"
         }
     ]
